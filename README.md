@@ -13,7 +13,7 @@ A Walk-Through My Journey in Coding Using HTML and CSS, Including Completed Proj
 
 ## Projects
 **1. Twiga Solar Technology and Solutions Ltd.**
-[Twiga solar](https://www.twigasolar.com)
+- [Twiga solar](https://www.twigasolar.com)
 - A Top-tier company in the Green-Energy Sector that aims to   provide alternative clean and affordable energy Solutions, utilizing high  quality products.
 
 ## Skills 
