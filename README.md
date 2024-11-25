@@ -1,6 +1,6 @@
-# Joseph K Mburu
+# **JOSEPH K MBURU**
 A Walk-Through My Journey in Coding Using HTML and CSS, Including Completed Projectts for Your Perusal
-## Table of Contents
+## **Table of contents**
 - [About Me](#Aboutme)
 - [Projects](#Projects)
 - [Skills](#Skills)
