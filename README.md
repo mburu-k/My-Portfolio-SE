@@ -1,9 +1,10 @@
 # **JOSEPH K MBURU**
-A Walk-Through My Journey in Coding Using HTML and CSS, Including Completed Projectts for Your Perusal
+A Walk-Through My Journey in Coding Using HTML and CSS, Including Completed Projectts for Your Perusal and consideration.
 ## **Table of contents**
 - [About Me](#Aboutme)
 - [Projects](#Projects)
 - [Skills](#Skills)
+- [Hobbies](#Hobbies)
 - [Testimonials](#Testimonials)
 - [Get a Free Quote](#GetafreeQuote)
 
