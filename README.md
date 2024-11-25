@@ -6,7 +6,7 @@ A Walk-Through My Journey in Coding Using HTML and CSS, Including Completed Proj
 - [Skills](#Skills)
 - [Hobbies](#Hobbies)
 - [Testimonials](#Testimonials)
-- [Get a Free Quote](#GetafreeQuote)
+- [Get a Free Quote](#Get-a-free-Quote)
 - [Contact Information](#contact-information)
 
 ## About Me
