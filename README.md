@@ -7,6 +7,7 @@ A Walk-Through My Journey in Coding Using HTML and CSS, Including Completed Proj
 - [Hobbies](#Hobbies)
 - [Testimonials](#Testimonials)
 - [Get a Free Quote](#GetafreeQuote)
+- [Contact Information](#contact-information)
 
 ## About Me
 - A Young, Energetic, Confident and Charismatic inddividual with the right skills to help solve your organizations' problems.
